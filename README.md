@@ -1,5 +1,7 @@
 # Multi-Class Anomaly Detection for Astronomical Transients
 
+THIS REPO IS A COPY OF THE ORIGINAL REPO PUBLICALLY AVAILABLE. We don't claim any of the work as entirely ours, we give all credit to the original authors for their tremendous work that we intend to build on. this is an experimental copy, being worked on by a small group of students who intend to learn upon the authors work and build on it.
+
 See this newer repository (https://github.com/Rithwik-G/astromcad2.0) for a newer version of the code used in this work. Docs from here will eventually be ported over to the other repository. The python package is now built from the other repository.
 
 Paper Link: https://arxiv.org/abs/2403.14742
@@ -11,8 +13,6 @@ PyPI Package: https://pypi.org/project/astromcad/
 Additional Figures from the paper are in the Figures/ folder (fully updated to reflect most recent model).
 
 Code for training and plot generation in AstroMCAD.ipynb. Use this for plot generation and the python package for everything else.
-If you have any questions, shoot me an email at rithwikca2020@gmail.com.
-
 
 # `astromcad` Package Documentation
 
